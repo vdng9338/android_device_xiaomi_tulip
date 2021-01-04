@@ -701,3 +701,8 @@ PRODUCT_PACKAGES += \
     init.cpuboost.sh \
     init.parallax.rc \
     init.parallax.sh
+
+# GvisualMod
+PRODUCT_PACKAGES += \
+    G-UIRadiusAndroid \
+    G-UIRadiusSystemUI 
