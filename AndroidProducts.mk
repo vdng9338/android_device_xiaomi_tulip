@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_tulip.mk
+    $(LOCAL_DIR)/potato_tulip.mk
 
 COMMON_LUNCH_CHOICES := \
-   xtended_tulip-user \
-   xtended_tulip-userdebug \
-   xtended_tulip-eng
+   potato_tulip-user \
+   potato_tulip-userdebug \
+   potato_tulip-eng
