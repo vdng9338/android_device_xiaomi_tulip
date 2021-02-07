@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "Xtended-Devices/vendor_xiaomi_tulip",
+    "target_path": "vendor/xiaomi/tulip",
+    "revision": "xr"
+  },
+  {
+    "remote": "github",
+    "repository": "okta-10/mystic-kernel-sdm660",
+    "target_path": "kernel/xiaomi/tulip",
+    "branch": "Mystic-4.4"
+  }
+]
