@@ -17,7 +17,7 @@ set_prop(system_app, system_prop);
 r_dir_file(system_app, sysfs_battery_supply)
 
 # FM radio needs to set fm properties
-set_prop(system_app, fm_prop)
+set_prop(system_app, vendor_fm_prop)
 
 # zram
 r_dir_file(system_app sysfs_zram)
