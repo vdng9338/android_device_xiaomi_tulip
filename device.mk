@@ -686,10 +686,6 @@ PRODUCT_BOOT_JARS += \
 # Force triple frame buffers
 PRODUCT_PROPERTY_OVERRIDES += \
 	 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
-	 
-# GoogleCamera
-PRODUCT_PACKAGES += \
-    GoogleCamera
 
 # XiaomiParts
 PRODUCT_PACKAGES += \
