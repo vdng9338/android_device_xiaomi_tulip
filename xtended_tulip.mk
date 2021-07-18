@@ -23,8 +23,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 $(call inherit-product, vendor/xtended/config/common_full_phone.mk)
 
 # Xtension
-XTENDED_BUILD_TYPE := OFFICIAL
-XTENDED_MAINTAINER := nshorty
+XTENDED_BUILD_TYPE := UNOFFICIAL
+XTENDED_BUILD_MAINTAINER := nshorty and vdng9338
+XTENDED_BUILD_SUPPORT_URL := https://t.me/nshortybuilds
+XTENDED_BUILD_DONATE_URL := https://www.example.com
 
 # Inherit from tulip device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
