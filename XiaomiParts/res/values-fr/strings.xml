@@ -156,7 +156,7 @@
     <string name="ambient_display_enable_title">Gestes d\'affichage ambiant</string>
     <string name="ambient_display_enable_summary">Allumer l\'écran à la réception de notifications</string>
     <string name="ambient_display_gestures_title">Gestes d\'affichage ambiant</string>
-    <string name="ambient_display_gestures_summary">Gestes supplémentaires pour allumer l'écran</string>
+    <string name="ambient_display_gestures_summary">Gestes supplémentaires pour allumer l\'écran</string>
     <string name="ambient_display_summary">Allumer l\'écran à la réception de notifications</string>
     <string name="ambient_display_summary_on">L\'écran s\'allumera à la réception de notifications</string>
     <string name="ambient_display_summary_off">L\'écran ne s\'allumera pas à la réception de notifications</string>
